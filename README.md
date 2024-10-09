@@ -1,2 +1,1 @@
-# Anime-face-detection
-动漫人脸检测
+# Anime-face-detection：动漫人脸检测
